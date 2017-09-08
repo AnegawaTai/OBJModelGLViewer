@@ -1,0 +1,2 @@
+/home/christsaga/My_codes/ForGit/OBJ_GL_Viewer/build/CMakeFiles/objmodel_viewer.dir
+/home/christsaga/My_codes/ForGit/OBJ_GL_Viewer/build/CMakeFiles/objmodel_viewer_automoc.dir

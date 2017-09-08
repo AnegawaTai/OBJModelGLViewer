@@ -1,0 +1,9 @@
+A very basic OpenGL-based OBJ model viewer.
+
+The OBJ file is loaded using GLM library: http://devernay.free.fr/hacks/glm/
+
+View Control
+*Mouse middle wheel: zoom the view
+*Mouse right button: orbit the Z-axis
+*Ctrl + Mouse right button: orbit the Y-axis
+*Shift + Mouse right button: move the view
